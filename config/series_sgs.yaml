@@ -1,0 +1,19 @@
+catalogo: "economia"
+data_inicio_historico: "01/01/2015"
+
+series:
+  - codigo: 432
+    nome: "Taxa Selic Meta (% a.a.)"
+    periodicidade: "diaria"
+    unidade: "% a.a."
+    ativo: true
+  - codigo: 433
+    nome: "IPCA - Variacao mensal (%)"
+    periodicidade: "mensal"
+    unidade: "% a.m."
+    ativo: true
+  - codigo: 1
+    nome: "Taxa de Cambio - Dolar americano (venda) - diario"
+    periodicidade: "diaria"
+    unidade: "R$/US$"
+    ativo: true
